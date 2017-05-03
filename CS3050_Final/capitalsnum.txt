@@ -1,0 +1,263 @@
+Alabama-Montgomery
+Jackson-227
+Atlanta-146
+Tallahassee-179
+Nashville-264
+Alaska-Juneau
+Arizona-Phoenix
+Sacramento-634
+Carson City-582
+Santa Fe-382
+Denver-586
+Salt Lake City-505
+Arkansas Little-Rock
+Oklahoma City-300
+Austin-443
+Baton Rouge-304
+Jackson-208
+Nashville-325
+Jefferson City-265
+California-Sacramento
+Phoenix-634
+Carson City-101
+Salem-447
+Colorado-Denver
+Cheyenne-97
+Salt Lake City-371
+Lincoln-444
+Topeka-499
+Oklahoma City-504
+Santa Fe-285
+Phoenix-586
+Connecticut-Hartford
+Providence-66
+Boston-93
+Albany-82
+Trenton-151
+Delaware-Dover
+Annapolis-53
+Trenton-84
+Harrisburg-106
+Florida-Tallahassee
+Atlanta-229
+Montgomery-179
+Georgia-Atlanta
+Montgomery-146
+Columbia-193
+Nashville-215
+Hawaii-Honolulu
+Idaho-Boise
+Helena-289
+Cheyenne-605
+Salt Lake City-296
+Carson City-359
+Salem-350
+Olympia-402
+Illinois-Springfield
+Madison-226
+Des Moines-242
+Jefferson City-160
+Indianapolis-185
+Frankfort-279
+Indiana-Indianapolis
+Lansing-221
+Columbus-168
+Frankfort-128
+Springfield-185
+Iowa-Des Moines
+St. Paul-232
+Pierre-391
+Lincoln-168
+Jefferson City-222
+Madison-238
+Springfield-242
+Kansas-Topeka
+Jefferson City-191
+Oklahoma City-267
+Denver-499
+Lincoln-132
+Kentucky-Frankfort
+Jefferson City-396
+Springfield-279
+Indianapolis-128
+Columbus-158
+Charleston-176
+Richmond-407
+Nashville-176
+Louisiana-Baton Rouge
+Jackson-140
+Austin-393
+Little Rock-304
+Maine-Augusta
+Concord-116
+Maryland-Annapolis
+Dover-53
+Harrisburg-92
+Richmond-112
+Charleston-281
+Massachusetts-Boston
+Concord-64
+Providence-41
+Hartford-93
+Albany-139
+Montpelier-152
+Michigan-Lansing
+Indianapolis-221
+Columbus-208
+Minnesota-St. Paul
+Madison-224
+Des Moines-232
+Pierre-359
+Bismarck-391
+Mississippi-Jackson
+Montgomery-227
+Nashville-330
+Little Rock-208
+Baton Rouge-140
+Missouri-Jefferson City
+Springfield-160
+Frankfort-396
+Nashville-339
+Little Rock-265
+Oklahoma City-365
+Topeka-191
+Lincoln-284
+Des Moines-222
+Montana-Helena
+Bismarck-533
+Pierre-586
+Cheyenne-520
+Boise-289
+Nebraska-Lincoln
+Pierre-308
+Des Moines-168
+Jefferson City-284
+Topeka-132
+Denver-444
+Cheyenne-426
+Nevada-Carson City
+Salem-433
+Boise-359
+Salt Lake City-431
+Sacramento-101
+Phoenix-582
+New Hampshire-Concord
+Augusta-116
+Montpelier-89
+Boston-64
+New Jersey-Trenton
+Dover-84
+Harrisburg-113
+Albany-176
+Hartford-151
+New Mexico-Santa Fe
+Phoenix-382
+Salt Lake City-477
+Denver-285
+Oklahoma City-473
+Austin-604
+New York-Albany
+Trenton-176
+Harrisburg-231
+Montpelier-126
+Boston-139
+Hartford-82
+Providence-133
+North Carolina-Raleigh
+Columbia-183
+Atlanta-355
+Nashville-456
+Richmond-139
+North Dakota-Bismarck
+Pierre-170
+St. Paul-391
+Helena-533
+Ohio-Columbus
+Harrisburg-324
+Charleston-133
+Frankfort-158
+Indianapolis-168
+Lansing-208
+Oklahoma-Oklahoma City
+Jefferson City-365
+Little Rock-300
+Austin-360
+Santa Fe-473
+Denver-504
+Topeka-267
+Oregon-Salem
+Sacramento-447
+Carson City-433
+Boise-350
+Olympia-145
+Pennsylvania-Harrisburg
+Dover-106
+Trenton-113
+Albany-231
+Annapolis-92
+Charleston-286
+Columbus-324
+Rhode Island-Providence
+Boston-41
+Hartford-66
+South Carolina-Columbia
+Raleigh-183
+Atlanta-193
+South Dakota-Pierre
+Bismarck-170
+St. Paul-359
+Des Moines-391
+Lincoln-308
+Cheyenne-318
+Helena-586
+Tennessee-Nashville
+Jefferson City-339
+Frankfort-176
+Richmond-524
+Raleigh-456
+Atlanta-215
+Montgomery-264
+Jackson-330
+Little Rock-625
+Texas-Austin
+Baton Rouge-393
+Little Rock-443
+Oklahoma City-360
+Santa Fe-604
+Utah-Salt Lake City
+Boise-296
+Helena-403
+Denver-371
+Santa Fe-477
+Phoenix-505
+Carson City-431
+Vermont-Montpelier
+Albany-126
+Concord-89
+Boston-152
+Virginia-Richmond
+Annapolis-112
+Raleigh-139
+Nashville-524
+Frankfort-407
+Charleston-234
+Washington-Olympia
+Boise-402
+Salem-145
+West Virginia-Charleston
+Columbus-133
+Harrisburg-286
+Annapolis-281
+Richmond-234
+Frankfort-176
+Wisconsin-Madison
+Springfield-226
+Des Moines-238
+St. Paul-224
+Wyoming-Cheyenne
+Helena-520
+Pierre-318
+Lincoln-426
+Denver-97
+Salt Lake City-370
+Boise-605
